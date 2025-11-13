@@ -1,3 +1,25 @@
+# Hi, I'm Uche 👋
+
+CS student | Aspiring Software Engineer  
+C#, Python, SQL, Blazor, Git | Building practical real-world apps  
+
+### 🚀 Featured Projects
+- NonProfit Donor Web App (Blazor + SQL + EF Core)
+- Password Strength Checker (Python)
+- Simple Login System (Python)
+
+### 💡 What I'm Learning
+- C# development
+- Data structures
+- SQL & Databases
+- Web development fundamentals
+
+### 📫 Contact
+uche0to100developer@gmail.com
+
+
+
+
 ##Uchechukwu Onwe
 ###CS Student • Aspiring Software Engineer
 C# • Python • C++ • SQL • Git • Full-Stack Development
