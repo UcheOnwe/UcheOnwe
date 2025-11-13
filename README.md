@@ -1,16 +1,42 @@
-## Hi there 👋
+##✨ Uchechukwu Onwe
+###CS Student • Aspiring Software Engineer
+C# • Python • C++ • SQL • Git • Full-Stack Development
 
-<!--
-**UcheOnwe/UcheOnwe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi! I’m Uche — a computer science student and growing software engineer focused on building real-world applications.
+I love backend development, full-stack C#, and creating clean, functional, and efficient systems.
 
-Here are some ideas to get you started:
+##🚀 Featured Projects
+###🔹 NonProfit Donor Web App (Blazor + SQL + EF Core)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Full-stack C# web application for managing donors and nonprofit records.
+Includes full CRUD operations, database integration, UI validation, and Radzen components.
+👉 Pinned on my profile
+
+##🛠 Tech Stack
+
+Languages: C#, Python, C++, SQL
+
+Backend: .NET, Entity Framework Core
+
+Frontend: Blazor Server
+
+Database: SQL Server Management Systems
+
+Tools: Visual Studio 2022, Git, GitHub, 
+
+##📈 Currently Working On
+
+Strengthening C# and OOP through real projects
+
+Building additional full-stack applications
+
+Preparing for 2026 Software Engineering internships
+
+##📫 How to Reach Me
+
+📍 Houston, TX
+📧 Uche0tt0to0developer@gmail.com
+
+##🔗 LinkedIn
+https://www.linkedin.com/in/uchechukwu-onwe-9b279a367/
+
