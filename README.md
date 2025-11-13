@@ -1,4 +1,4 @@
-##✨ Uchechukwu Onwe
+##Uchechukwu Onwe
 ###CS Student • Aspiring Software Engineer
 C# • Python • C++ • SQL • Git • Full-Stack Development
 
