@@ -2,7 +2,7 @@
 ### CS Student • Aspiring Software Engineer
 C# • Python • C++ • SQL • Git • Full-Stack Development
 
-Hi! I’m Uche — a computer science student and growing software engineer focused on building real-world applications.
+Hey! I’m Uche, a computer science student and growing software engineer focused on building real-world applications.
 I love backend development, full-stack C#, and creating clean, functional, and efficient systems.
 
 ## 🚀 Featured Projects
