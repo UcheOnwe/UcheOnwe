@@ -35,7 +35,7 @@ Preparing for 2026 Software Engineering internships
 ## 📫 How to Reach Me
 
 📍 Houston, TX
-📧 Uche0tt0to0developer@gmail.com
+📧 Uche0to100developer@gmail.com
 
 ## 🔗 LinkedIn
 https://www.linkedin.com/in/uchechukwu-onwe-9b279a367/
