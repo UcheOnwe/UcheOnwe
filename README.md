@@ -7,6 +7,7 @@ I enjoy developing backend systems, designing RESTful APIs, and building applica
 ### Smart Expense Tracker (AI-Powered)
 
 Full-stack application that extracts receipt data using AI, categorizes expenses, and provides insights into user spending behavior.
+
 Tech: .NET, React Native, SQL, OpenAI 
 
 
