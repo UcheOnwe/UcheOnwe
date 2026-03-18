@@ -1,42 +1,45 @@
-## Uchechukwu Onwe
-### CS Student • Aspiring Software Engineer
-C# • Python • C++ • SQL • Git • Full-Stack Development
+## 👋 Hey, I’m Uche
+Software Engineer focused on building full-stack applications using .NET, SQL, and modern frontend technologies.
 
-Hey! I’m Uche, a computer science student and growing software engineer focused on building real-world applications.
-I love backend development, full-stack C#, and creating clean, functional, and efficient systems.
+I enjoy developing backend systems, designing RESTful APIs, and building applications that solve real-world problems.
 
-##  Featured Projects
+## 🚀 Featured Projects
+### Smart Expense Tracker (AI-Powered)
+
+Full-stack application that allows users to scan receipts, categorize expenses, and gain insights into spending behavior.
+
+Tech: .NET, React Native, SQL, OpenAI 
+
+
 ### NonProfit Donor Web App (Blazor + SQL + EF Core)
 
 Full-stack C# web application for managing donors and nonprofit records.
 Includes full CRUD operations, database integration, UI validation, and Radzen components.
 Pinned on my profile
+Tech: C#, Blazor, SQL Server, Entity Framework Core
 
-## Tech Stack
+## 📱Tech Stack  
 
 Languages: C#, Python, C++, SQL
 
 Backend: .NET, Entity Framework Core
 
-Frontend: Blazor Server
+Frontend: React Native, Blazor
 
-Database: SQL Server Management Systems
+Database: SSMS, SQLite
 
-Tools: Visual Studio 2022, Git, GitHub, 
+Tools: Git, GitHub, Postman, Visual Studio
 
 ## Currently Working On
 
-Strengthening C# and OOP through real projects
+- AI-powered receipt parsing
 
-Building additional full-stack applications
+- Mobile app development (React Native)
 
-Preparing for 2026 Software Engineering internships
+- Improving system design and backend architecture
 
-## How to Reach Me
-
+## 📫 Contact
 Houston, TX
-Uche0to100developer@gmail.com
-
-## LinkedIn
-https://www.linkedin.com/in/uchechukwu-onwe-9b279a367/
+Email: Uche0to100developer@gmail.com
+LinkedIn: https://www.linkedin.com/in/uchechukwu-onwe-9b279a367/ 
 
