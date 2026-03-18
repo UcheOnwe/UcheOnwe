@@ -1,4 +1,4 @@
-## 👋 Hey, I’m Uche
+### 👋 Hey, I’m Uche
 Software Engineer focused on building full-stack applications using .NET, SQL, and modern frontend technologies.
 
 I enjoy developing backend systems, designing RESTful APIs, and building applications that solve real-world problems.
