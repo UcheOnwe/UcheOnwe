@@ -1,0 +1,65 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="400" viewBox="0 0 800 400" role="img" aria-labelledby="t d">
+  <title id="t">ClinicEngine request path and deployment</title>
+  <desc id="d">React client to ASP.NET Core controller, FluentValidation, service, repository, Entity Framework Core and PostgreSQL. Deployed with the frontend on S3, the API on EC2 behind Nginx and systemd, PostgreSQL on RDS, and GitHub Actions CI/CD.</desc>
+  <defs>
+    <marker id="a" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M0 0L10 5L0 10z" fill="#57606a"/>
+    </marker>
+  </defs>
+  <style>
+    .card{fill:#ffffff;stroke:#d0d7de;stroke-width:1.5}
+    .box{fill:#f6f8fa;stroke:#8c959f;stroke-width:1.5}
+    .acc{fill:#eef1ff;stroke:#512bd4;stroke-width:1.5}
+    .db{fill:#eaf4fb;stroke:#336791;stroke-width:1.5}
+    .lbl{font:600 19px -apple-system,'Segoe UI',Helvetica,Arial,sans-serif;fill:#1f2328}
+    .sub{font:15px -apple-system,'Segoe UI',Helvetica,Arial,sans-serif;fill:#57606a}
+    .cap{font:600 14px -apple-system,'Segoe UI',Helvetica,Arial,sans-serif;fill:#57606a;letter-spacing:1.5px}
+    .ln{stroke:#57606a;stroke-width:2;fill:none}
+  </style>
+  <rect class="card" x="1" y="1" width="798" height="398" rx="14"/>
+
+  <text class="cap" x="32" y="40">REQUEST PATH</text>
+  <rect class="box" x="32"  y="56" width="160" height="70" rx="10"/>
+  <text class="lbl" x="112" y="88" text-anchor="middle">React</text>
+  <text class="sub" x="112" y="110" text-anchor="middle">registration form</text>
+  <rect class="acc" x="222" y="56" width="160" height="70" rx="10"/>
+  <text class="lbl" x="302" y="88" text-anchor="middle">Controller</text>
+  <text class="sub" x="302" y="110" text-anchor="middle">ASP.NET Core REST</text>
+  <rect class="acc" x="412" y="56" width="160" height="70" rx="10"/>
+  <text class="lbl" x="492" y="88" text-anchor="middle">Validation</text>
+  <text class="sub" x="492" y="110" text-anchor="middle">FluentValidation</text>
+  <rect class="acc" x="602" y="56" width="166" height="70" rx="10"/>
+  <text class="lbl" x="685" y="88" text-anchor="middle">Service</text>
+  <text class="sub" x="685" y="110" text-anchor="middle">slug · IDs · DTOs</text>
+  <path class="ln" d="M192 91H218" marker-end="url(#a)"/>
+  <path class="ln" d="M382 91H408" marker-end="url(#a)"/>
+  <path class="ln" d="M572 91H598" marker-end="url(#a)"/>
+  <path class="ln" d="M685 126V150H492V170" marker-end="url(#a)"/>
+
+  <rect class="acc" x="222" y="174" width="160" height="70" rx="10"/>
+  <text class="lbl" x="302" y="206" text-anchor="middle">EF Core</text>
+  <text class="sub" x="302" y="228" text-anchor="middle">migrations</text>
+  <rect class="acc" x="412" y="174" width="160" height="70" rx="10"/>
+  <text class="lbl" x="492" y="206" text-anchor="middle">Repository</text>
+  <text class="sub" x="492" y="228" text-anchor="middle">IClinicRepository</text>
+  <rect class="db" x="32" y="174" width="160" height="70" rx="10"/>
+  <text class="lbl" x="112" y="206" text-anchor="middle">PostgreSQL</text>
+  <text class="sub" x="112" y="228" text-anchor="middle">clinic_profiles</text>
+  <path class="ln" d="M412 209H386" marker-end="url(#a)"/>
+  <path class="ln" d="M222 209H196" marker-end="url(#a)"/>
+
+  <line x1="32" y1="272" x2="768" y2="272" stroke="#d0d7de" stroke-width="1.5"/>
+  <text class="cap" x="32" y="302">DEPLOYMENT</text>
+  <rect class="box" x="32"  y="318" width="170" height="60" rx="10"/>
+  <text class="lbl" x="117" y="344" text-anchor="middle">AWS S3</text>
+  <text class="sub" x="117" y="366" text-anchor="middle">React frontend</text>
+  <rect class="box" x="216" y="318" width="190" height="60" rx="10"/>
+  <text class="lbl" x="311" y="344" text-anchor="middle">AWS EC2 · Linux</text>
+  <text class="sub" x="311" y="366" text-anchor="middle">API · Nginx · systemd</text>
+  <rect class="box" x="420" y="318" width="160" height="60" rx="10"/>
+  <text class="lbl" x="500" y="344" text-anchor="middle">AWS RDS</text>
+  <text class="sub" x="500" y="366" text-anchor="middle">PostgreSQL</text>
+  <rect class="box" x="594" y="318" width="174" height="60" rx="10"/>
+  <text class="lbl" x="681" y="344" text-anchor="middle">GitHub Actions</text>
+  <text class="sub" x="681" y="366" text-anchor="middle">build · test · S3 deploy</text>
+</svg>
