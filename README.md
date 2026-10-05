@@ -29,7 +29,7 @@ GitHub: https://github.com/UcheOnwe/our-space
 <a href="http://32.199.12.158"><img src="assets/our-space.png" alt="Our Space landing page" width="100%" /></a>
 
 - **Architecture:** a Django REST Framework **modular monolith** with seven domain apps (accounts, couples, watch, presence, rooms, a virtual-currency wallet and ledger, and companions), plus a **React 19 + TypeScript** client.
-- **Realtime:** synchronized YouTube playback and live shared presence over **WebSockets** (Django Channels on ASGI). Messages go to per-couple groups, and every connection is authenticated and origin-checked.
+- **Realtime:** synchronized YouTube playback using REST with anchor-based drift correction, with live shared presence over **WebSockets** (Django Channels on ASGI). Presence messages go to per-couple groups, and every WebSocket connection is authenticated and origin-checked.
 - **Auth and data:** session-based authentication with **CSRF** protection across the SPA/API boundary, invite-based couple pairing, and **PostgreSQL**-backed shared state.
 - **Quality:** I built every feature as a vertical slice on its own branch and merged it through 14 pull requests. **GitHub Actions** CI runs backend tests against PostgreSQL, checks for missing migrations, lints, type-checks, and builds. The project has **650+ passing frontend tests and 230+ backend test cases**.
 - **Deployment:** containerized with **Docker** and deployed to **AWS EC2** behind **Nginx**. I provisioned the infrastructure with **Terraform**.
@@ -103,5 +103,5 @@ I use Claude Code, Codex, and ChatGPT for repository inspection, planning, imple
 <br/>
 
 <div align="center">
-<sub>Open to entry-level software, backend, full-stack, and cloud engineering roles · Houston, Texas, or remote</sub>
+<sub>Open to entry-level software, backend, full-stack, and cloud engineering roles · Houston, TX · Open to relocation across the U.S. · Remote</sub>
 </div>
